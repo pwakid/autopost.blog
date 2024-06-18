@@ -1,0 +1,3 @@
+<?php
+// Analytics dashboard view
+?>
